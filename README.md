@@ -3,6 +3,7 @@
 [![Made with React](https://img.shields.io/badge/Made_with-React-blue.svg)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material-UI-blue.svg)](https://material-ui.com/)
 [![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c9d6504-87eb-40a3-837b-6626bb48e3c1/deploy-status)](https://app.netlify.com/sites/gsresumebuilder/deploys)
 
 # Resume Builder
 
