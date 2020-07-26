@@ -8,6 +8,7 @@
 
 Resume Builder created with ReactJS and Python, here to ease up the troublesome process of building your Resume in the format prescribed by SGSITS, Indore.
 
+![Showcase](https://cdn.dribbble.com/users/4245746/screenshots/13906048/media/94884b08592b2e7e611d8f37f17eb61f.png)
 
 ## Architecture
 
